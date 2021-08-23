@@ -3,6 +3,17 @@
   padding: 0;
 }
 
+body {
+  font-family: Arial;
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  background: #000;
+  width: 1000px;
+}
+
 header {
   background: #000;
   color: white;
