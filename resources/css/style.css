@@ -34,10 +34,6 @@ body header p {
   margin-bottom: 10px;
 }
 
-body main .cellphone img {
-  margin-bottom: 40px;
-}
-
 body main .camping h2 {
   font-weight: 300;
   font-size: 42px;
@@ -52,6 +48,10 @@ body main .camping p {
 }
 
 body main .camping img {
+  margin-bottom: 60px;
+}
+
+body main .cellicon img {
   margin-bottom: 50px;
 }
 
