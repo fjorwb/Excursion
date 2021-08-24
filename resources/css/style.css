@@ -63,7 +63,7 @@ body main .cellicon h2 {
 }
 
 body main .cellicon p {
-  font-size: 21px;
+  font-size: 16px;
   color: grey;
   margin-bottom: 30px;
 }
@@ -71,6 +71,6 @@ body main .cellicon p {
 footer p {
   color: gray;
   text-align: right;
-  font-size: 18px;
+  font-size: 20px;
 }
 /*# sourceMappingURL=style.css.map */
