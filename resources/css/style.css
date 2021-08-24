@@ -28,7 +28,7 @@ body header h1 {
   margin-bottom: 30px;
 }
 
-body header p {
+body header a {
   color: aquamarine;
   font-size: 16px;
   margin-bottom: 10px;
@@ -62,7 +62,7 @@ body main .cellicon h2 {
   margin-bottom: 30px;
 }
 
-body main .cellicon p {
+body main .cellicon a {
   font-size: 16px;
   color: grey;
   margin-bottom: 30px;
