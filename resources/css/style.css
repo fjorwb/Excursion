@@ -29,7 +29,6 @@ body header h1 {
 }
 
 body header a {
-  text-decoration: none;
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
   color: aquamarine;
@@ -66,11 +65,10 @@ body main .cellicon h2 {
 }
 
 body main .cellicon a {
-  text-decoration: none;
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
-  font-size: 16px;
   color: grey;
+  font-size: 16px;
   margin-bottom: 30px;
 }
 
